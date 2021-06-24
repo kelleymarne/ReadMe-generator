@@ -41,14 +41,8 @@ const questions = [
         message: 'Were there any experiences that stood out to you on this project?'
     },
     {
-        type: 'confirm',
-        name: 'license',
-        message: 'Would you like to include licsensing for this project?',
-        default: true
-    },
-    {
         type: 'list',
-        name: 'licenseList',
+        name: 'license',
         message: 'Which license would you like to use?',
         choices: [
             'Apache',
@@ -58,14 +52,7 @@ const questions = [
             'MIT',
             'Mozilla',
             'Open'
-        ],
-        when: ({license}) => {
-            if(license) {
-                return true;
-            } else {
-                return false;
-            }
-        }
+        ]
     },
     {
         type: 'input',
