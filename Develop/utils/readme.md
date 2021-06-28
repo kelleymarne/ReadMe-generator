@@ -1,11 +1,11 @@
 
-  # kelley worhtington
+  # ReadME Generator
 
-  ![badge](https://img.shields.io/badge/license-Academic-blueviolet) 
+  ![badge](https://img.shields.io/badge/license-Open-blueviolet) 
   <br />
 
   ## Description
-  nothing
+  Creates readme files from the command line information only
 
 ------------------
 ------------------
@@ -23,17 +23,17 @@
 ------------------
 
   ## Installation 
-  lots
+  No installation required
 
 ------------------
 
   ## Usage
-  lots
+  Answer the prompted questions to create the readme file
 
 ------------------
 
   ## Credits
-  no
+  Youtube, MDN, Inquirer Documentaion, Stack Overflow
 
 ------------------
 
@@ -43,16 +43,16 @@
 ------------------
 
   ## Licensing
-  Academic
+  Open
   <br>
-  ![badge](https://img.shields.io/badge/license-Academic-blueviolet) 
+  ![badge](https://img.shields.io/badge/license-Open-blueviolet) 
   <br />
-  This application is covered by the Academic license.
+  This application is covered by the Open License.
 
 ------------------
   
   ## Credits
-  no
+  Youtube, MDN, Inquirer Documentaion, Stack Overflow
 
 ------------------
 
